@@ -6,7 +6,7 @@
 **実行結果**
 
 ``` text
-Hello Ohtori Lab
+Hello AtCoder!
 programing daisuki
 ```
 
@@ -39,6 +39,6 @@ Hello SuperGT!
 #### 正しい実行結果
 
 ``` text
-Hello Atcoder!
+Hello AtCoder!
 programing daisuki
 ```
