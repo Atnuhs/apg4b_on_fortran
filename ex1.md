@@ -21,7 +21,7 @@ program main
     implicit none
 
     print*, 'Hello World!'
-    print*, 'Hello Niigata univ!'
+    print*, 'Hello programming!'
     print*, 'Hello SuperGT!'
 end program
 ```
@@ -30,7 +30,7 @@ end program
 
 ``` text
 Hello World!
-Hello Niigata univ!
+Hello programming!
 Hello SuperGT!
 ```
 
@@ -39,6 +39,6 @@ Hello SuperGT!
 #### 正しい実行結果
 
 ``` text
-Hello Ohtori Lab
+Hello Atcoder!
 programing daisuki
 ```
